@@ -199,6 +199,23 @@
                   </ul>
                 </div>
               </li>
+
+              <li class="nav-item">
+                <a data-bs-toggle="collapse" href="#rep">
+                  <i class="fas fa-pen-square"></i>
+                  <p>Ingreso de Datos</p>
+                  <span class="caret"></span>
+                </a>
+                <div class="collapse" id="rep">
+                  <ul class="nav nav-collapse">
+                    <li>
+                      <a href="<?php echo site_url(); ?>/Reportes/registroContenidos" >
+                        <span class="sub-item">Registro de Contenidos</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
               
               <li class="nav-item">
                 <a data-bs-toggle="collapse" href="#registro">

@@ -141,7 +141,7 @@
                 map: mapa1,
                 title: 'POSICIÓN DEL CONTENEDOR',
                 draggable: true,
-                icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+                icon: '<?php echo base_url("assets/img/conte.png"); ?>'
 
 
             });

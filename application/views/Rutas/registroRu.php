@@ -130,7 +130,7 @@
             map:mapa1,
             title:'FINALIZACIÓN DE LA RUTA',
             draggable:true,
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/llegada.png"); ?>'
 
 
         });
@@ -139,7 +139,7 @@
             map:mapa1,
             title:'COMIENZO DE LA RUTA',
             draggable:true,
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/car.png"); ?>'
 
 
         });

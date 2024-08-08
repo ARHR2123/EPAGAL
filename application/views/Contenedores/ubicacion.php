@@ -78,7 +78,7 @@
             position: coordenadaMapG,
             map: mapaG,
             title: 'Contenedor # <?php echo $contenedor->id_co; ?>, SU POSICIÓN ACTUAL',
-            icon: '<?php echo base_url("assets/img/contenedor.png"); ?>'
+            icon: '<?php echo base_url("assets/img/conte.png"); ?>'
 
 
         });

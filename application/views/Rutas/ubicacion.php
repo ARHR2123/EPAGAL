@@ -83,7 +83,7 @@
             position: coordenadaMapG2,
             map: mapaG,
             title: 'Ruta # <?php echo $ruta->id_ru; ?>, FINALIZACIÓN DE LA RUTA',
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/llegada.png"); ?>'
 
 
         });
@@ -91,7 +91,7 @@
             position: coordenadaMapG,
             map: mapaG,
             title: 'Ruta # <?php echo $ruta->id_ru; ?>, COMIENZO DE LA RUTA',
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/car.png"); ?>'
 
 
         });

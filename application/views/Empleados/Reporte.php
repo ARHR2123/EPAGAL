@@ -164,7 +164,7 @@
             position: coordenadaMapG2,
             map: mapaG,
             title: 'Ruta # <?php echo $recorrido->ruta_rep; ?>, FINALIZACIÓN DE LA RUTA',
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/llegada.png"); ?>'
 
 
         });
@@ -172,7 +172,7 @@
             position: coordenadaMapG,
             map: mapaG,
             title: 'Ruta # <?php echo $recorrido->ruta_rep; ?>, COMIENZO DE LA RUTA',
-            icon: '<?php echo base_url("assets/img/rut.png"); ?>'
+            icon: '<?php echo base_url("assets/img/car.png"); ?>'
 
 
         });
@@ -180,7 +180,7 @@
             position: coordenadaMapG3,
             map: mapaG,
             title: 'Contenedor # <?php echo $recorrido->conte_rep; ?>, SE ENCUENTRA AQUÍ',
-            icon: '<?php echo base_url("assets/img/contenedor.png"); ?>'
+            icon: '<?php echo base_url("assets/img/conte.png"); ?>'
 
 
         });
